@@ -1,3 +1,1 @@
-this a delivery system written with laravel NelsonSmart
-
-http://nelsonsmart.herokuapp.com/
+this a delivery system written with laravel by NelsonSmart
